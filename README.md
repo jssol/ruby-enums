@@ -19,7 +19,7 @@
 
 👤 **Author 3**
 
-- GitHub: [name](https://github.com)
-- Twitter: [name](https://twitter.com)
-- LinkedIn: [name](https://www.linkedin.com/in)
+- GitHub: [@bushra](https://github.com/bushmusi)
+- Twitter: [@bushra](https://twitter.com/bushera_mestofa)
+- LinkedIn: [@bushra](https://www.linkedin.com/in/bushra-mustofa)
 
