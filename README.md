@@ -1,8 +1,33 @@
-# Create own Enumerable using Ruby
+# Enumerable using Ruby
 
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-> In this project we use a module inside a class.
+> In this project we use a module inside a class. We have use `Ruby` best practice syntax structure and applying language style guide in code.
+
+## Built With
+- Ruby
+
+## Getting Started
+1. ```git clone https://github.com/jssol/ruby-enums```
+2. ```cd ruby-enums```
+### Prerequests
+1. [Git](https://git-scm.com/downloads).
+2. [Ruby](https://www.ruby-lang.org/en/downloads/)
+
+### Install
+1. ```gem install```
+
+## Run Tests
+
+```
+rspec spec/user_spec.rb 
+```
+```
+rspec spec/operation_spec.rb 
+```
+```
+rspec spec/group_spec.rb 
+```
 
 ## Authors
 
