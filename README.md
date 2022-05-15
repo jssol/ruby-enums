@@ -2,7 +2,7 @@
 
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-> In this project we use a module inside a class. We have use `Ruby` best practice syntax structure and applying language style guide in code.
+> In this project we use a module inside a class. We have use `Ruby` best practice syntax structure and applying language style guide in code
 
 ## Built With
 - Ruby
